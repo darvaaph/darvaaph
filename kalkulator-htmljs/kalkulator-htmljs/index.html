@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Persegi Calculator</title>
+</head>
+<body>
+
+    <div class="calculator-container">
+        <h1>Welcome to Katik</h1>
+
+        <div id="shape-info">
+            <p>Hai Sobat, Selamat datang di Katik !!!</p>
+            <p>Sebuah web apps sederhana yang berfungsi untuk menghitung nilai luas dan keliling bangun datar</p>
+            <img src="images/persegi.jpeg" alt="Persegi">
+            <br>
+            <br>
+            <br>
+            <p>Rumus Luas Persegi yaitu :</p>
+            <P><strong> L = S x S</strong></P>
+            <P>Di mana : L = Luas dan S = Sisi </P>
+            <hr>
+            <p>Rumus Keliling Persegi yaitu :</p>
+            <P><strong> K = 4 x S</strong></P>
+            <P>Di mana : K = Keliling dan S = Sisi </P>
+        </div>
+
+        <nav>
+            <button onclick="switchMode('luas')">Hitung Luas</button>
+            <button onclick="switchMode('keliling')">Hitung Keliling</button>
+        </nav>
+        
+        <form id="calculator-form">
+            <label for="sideLength">Panjang Sisi:</label>
+            <input type="number" id="sideLength" name="sideLength" required>
+
+            <button type="button" onclick="calculate()">Hitung</button>
+
+            <div id="result-container">
+                <p id="result-label"></p>
+                <p id="result-value"></p>
+            </div>
+        </form>
+    </div>
+
+    <script src="js/script.js"></script>
+</body>
+</html>
