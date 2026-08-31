@@ -1,62 +1,174 @@
-# Hi, I'm Darva 👋
+<div align="center">
 
-Informatics Engineering student at Politeknik Negeri Bandung,
-interested in Web Development and Software Engineering.
+# Hey, I'm Darva 👋
 
-I enjoy building web applications, working with backend systems,
-and turning ideas into functional products.
+### Software Developer · Informatics Engineering Student
 
-## About Me
+I build web applications, backend systems, and digital products.
 
-- 🎓 Informatics Engineering student at Politeknik Negeri Bandung
-- 💻 Interested in Web Development & Software Engineering
-- 🧩 Experienced in developing web applications and REST APIs
-- 🌱 Currently improving my software engineering and web development skills
-- 🤝 Open to internship opportunities and collaborative projects
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://darva.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darvaaph)
+[![GitHub](https://img.shields.io/badge/GitHub-darvaaph-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/darvaaph)
 
-## Tech Stack
+</div>
 
-**Languages**
-PHP · JavaScript · Java · C
+---
 
-**Web & Backend**
-Laravel · Node.js · Express.js · Spring Boot
+## 👨‍💻 About Me
 
-**Database**
-MongoDB · MySQL
+<pre>
+<code>const darva = {
+  role: "Software Developer",
+  education: "Informatics Engineering @ POLBAN",
+  interests: [
+    "Web Development",
+    "Backend Engineering",
+    "Software Engineering"
+  ],
+  currentlyLearning: "Building better software, one project at a time",
+  openTo: ["Internships", "Collaborations", "Interesting Projects"]
+};
+</code>
+</pre>
 
-**Tools**
-Git · GitHub · Postman · Figma · VS Code
+I'm an Informatics Engineering student at **Politeknik Negeri Bandung (POLBAN)** with a background in Software Engineering.
 
-## Featured Projects
+I enjoy turning ideas and real-world problems into functional software — from designing application flows and building backend APIs to working with databases and debugging existing systems.
 
-### 📁 Archive Management System
-Web-based document and correspondence management system.
+I've also experienced working in a professional development environment through my internship at **PT Svara Inovasi Indonesia**, where I worked on web development with a focus on backend functionality and data processing.
+
+---
+
+## ⚡ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,js,java,c,html,css" />
+</p>
+
+### Frameworks & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,spring" />
+</p>
+
+### Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" />
+</p>
+
+---
+
+## 🚀 Selected Projects
+
+### 📂 Archive Management System
+
+A web-based correspondence and document management system built with Laravel.
+
+**What I worked on:**
+- Role-based access for Super Admin, Admin, and User
+- Incoming & outgoing mail management
+- Document archiving
+- Employee management
+- Search and pagination
+- PDF document preview
 
 `Laravel` `PHP` `MySQL`
 
-→ View Repository
+[View Repository →](https://github.com/darvaaph/apk-arsip-persuratan)
 
-### 📊 Analytics Web Application
-Web analytics features developed during an internship,
-including data filtering and reporting functionality.
+---
 
-`Laravel` `MongoDB`
+### 📊 Analytics Web Development
 
-### 💬 Forum REST API
-Backend API for a forum application with authentication,
-posts, comments, and voting functionality.
+Web analytics functionality developed during my internship at **PT Svara Inovasi Indonesia**.
 
-`Express.js` `MongoDB` `JWT`
+**What I worked on:**
+- Data filtering based on date ranges and accounts
+- MongoDB data processing
+- Analytics for user activity
+- Backend debugging and feature development
 
-## Experience
+`Laravel` `MongoDB` `PHP`
 
-### Software Developer Intern
-**PT Svara Inovasi Indonesia**
+> Professional internship project — source code is not publicly available.
 
-Worked on web application development with a focus on backend
-functionality, data processing, debugging, and analytics features.
+---
 
-## Connect
+### 🔌 Forum REST API
 
-LinkedIn · Portfolio
+Backend REST API for a forum application with authentication and interaction features.
+
+**Features:**
+- User authentication
+- JWT authorization
+- Posts & comments
+- Voting system
+- RESTful endpoints
+
+`Node.js` `Express.js` `MongoDB` `JWT`
+
+---
+
+## 🧩 How I Approach Development
+
+<pre>
+Understand the problem
+        ↓
+Design the flow
+        ↓
+Build the solution
+        ↓
+Test & Debug
+        ↓
+Refactor
+        ↓
+Ship & Learn
+</pre>
+
+I care about more than making code *work*. I'm continuously learning how to make software more **maintainable, understandable, and useful**.
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=darvaaph&show_icons=true&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darvaaph&layout=compact&hide_border=true" />
+
+</div>
+
+> GitHub statistics only represent my public repositories and do not include private or professional work.
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in learning, collaborating, and working on interesting software projects.
+
+<p>
+  <a href="https://www.linkedin.com/in/darvaaph">
+    <img src="https://img.shields.io/badge/LinkedIn-Darva_Aryasatya-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/darvaaph">
+    <img src="https://img.shields.io/badge/GitHub-darvaaph-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### `while (learning) { build(); improve(); }`
+
+</div>
